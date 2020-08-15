@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="663f5063-b913-4a47-82de-63aed4f42f7d" name="Default Changelist" comment="название и обои изменились" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1g8lq3XrRbm7ZF2vpuPf1lhB2zZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="663f5063-b913-4a47-82de-63aed4f42f7d" name="Default Changelist" comment="" />
+      <created>1597504290316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597504290316</updated>
+      <workItem from="1597504304458" duration="9412000" />
+    </task>
+    <task id="LOCAL-00001" summary="название и обои изменились">
+      <created>1597518411681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597518411681</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="название и обои изменились" />
+    <option name="LAST_COMMIT_MESSAGE" value="название и обои изменились" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="134" y="104" key="MergeDialog" timestamp="1597518579770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="134" y="104" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597518579770" />
+    <state x="548" y="299" key="MultipleFileMergeDialog" timestamp="1597518915811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="548" y="299" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597518915811" />
+    <state x="665" y="151" key="SettingsEditor" timestamp="1597507504492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597507504492" />
+    <state x="774" y="127" key="Vcs.Push.Dialog.v2" timestamp="1597519121363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="127" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597519121363" />
+    <state x="744" y="457" width="672" height="678" key="search.everywhere.popup" timestamp="1597515385659">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="457" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597515385659" />
+  </component>
+</project>
