@@ -7,6 +7,7 @@ body {
   color: #222222;
   background-color: #f2f4f6;
   background-image: url("img/hero-bg.jpg");
+  background-size: 1920px 1080px;
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -47,7 +48,7 @@ body {
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-bottom: 680px;
 }
 
 .hero-image .container {
@@ -83,7 +84,7 @@ body {
 }
 
 .user-image {
-  margin: 0 0 32px;
+  margin: 0 0 36px;
   text-align: center;
 }
 
