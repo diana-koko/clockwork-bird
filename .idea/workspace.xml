@@ -26,7 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="663f5063-b913-4a47-82de-63aed4f42f7d" name="Default Changelist" comment="название и обои изменились" />
+    <list default="true" id="663f5063-b913-4a47-82de-63aed4f42f7d" name="Default Changelist" comment="название и обои изменились">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +63,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597504290316</updated>
-      <workItem from="1597504304458" duration="9412000" />
+      <workItem from="1597504304458" duration="10408000" />
+      <workItem from="1597582350178" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="название и обои изменились">
       <created>1597518411681</created>
@@ -69,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597518411681</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="название и обои изменились">
+      <created>1597520093962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597520093962</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +108,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -116,10 +128,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="665" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597507504492" />
-    <state x="774" y="127" key="Vcs.Push.Dialog.v2" timestamp="1597519121363">
+    <state x="774" y="127" key="Vcs.Push.Dialog.v2" timestamp="1597520130863">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="774" y="127" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597519121363" />
+    <state x="774" y="127" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597520130863" />
     <state x="744" y="457" width="672" height="678" key="search.everywhere.popup" timestamp="1597515385659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
